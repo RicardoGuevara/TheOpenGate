@@ -1,0 +1,24 @@
+{
+  "name": "theopengate",
+  "version": "1.0.0",
+  "description": "\"i'm the Molock's eye in the sky, wich looks into the abysm\"",
+  "main": "backEnd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoGuevara/TheOpenGate.git"
+  },
+  "author": "\"Rick and Molock\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoGuevara/TheOpenGate/issues"
+  },
+  "homepage": "https://github.com/RicardoGuevara/TheOpenGate#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "firebase": "^6.0.4",
+    "socket.io": "^2.2.0"
+  }
+}
